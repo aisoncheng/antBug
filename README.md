@@ -15,5 +15,7 @@ npm install
 npm start
 ```
 
+当点击picker 的确定键的时候  onOk没有被触发..
+
 http://localhost:8000/
 
